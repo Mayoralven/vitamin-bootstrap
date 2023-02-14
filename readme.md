@@ -6,29 +6,29 @@
 </h1>
 <h3 align="center">An extension to the popular CSS framework, Bootstrap</h3>
 <p align="center">
-  <a href="DOCS_URL_HERE">View the Docs</a>
+  <a href="https://mayoralven.com/docs/about-vitamin">View the Docs</a>
 </p>
 
 <h2>Contents</h2>
 <ul>
-  <li><a href="ABOUT_URL_HERE">About Vitamin</a></li>
-  <li><a href="FIRST_STEPS_URL_HERE">First Steps</a></li>
-  <li><a href="DOWNLOAD_URL_HERE">Download</a></li>
-  <li><a href="COLORS_URL_HERE">Colors</a></li>
-  <li><a href="SPACING_URL_HERE">Spacing</a></li>
-  <li><a href="SIZES_URL_HERE">Sizes</a></li>
-  <li><a href="TEXT_URL_HERE">Text</a></li>
-  <li><a href="FILTERS_URL_HERE">Filters</a></li>
-  <li><a href="TRANSFORMS_URL_HERE">Transforms</a></li>
-  <li><a href="OPACITY_URL_HERE">Opacity</a></li>
-  <li><a href="CURSORS_URL_HERE">Cursors</a></li>
-  <li><a href="HOVER_URL_HERE">Hover</a></li>
-  <li><a href="HOVER_TEXT_URL_HERE">Hover Text</a></li>
-  <li><a href="HOVER_BACKGROUNDS_URL_HERE">Hover Backgrounds</a></li>
-  <li><a href="HOVER_FILTERS_URL_HERE">Hover Filters</a></li>
-  <li><a href="HOVER_TRANSFORMS_URL_HERE">Hover Transforms</a></li>
-  <li><a href="HOVER_OPACITY_URL_HERE">Hover Opacity</a></li>
-  <li><a href="HOVER_SHADOW_URL_HERE">Hover Shadow</a></li>
+  <li><a href="https://mayoralven.com/docs/about-vitamin">About Vitamin</a></li>
+  <li><a href="https://mayoralven.com/docs/first-steps">First Steps</a></li>
+  <li><a href="https://mayoralven.com/docs/download">Download</a></li>
+  <li><a href="https://mayoralven.com/docs/colors">Colors</a></li>
+  <li><a href="https://mayoralven.com/docs/spacing">Spacing</a></li>
+  <li><a href="https://mayoralven.com/docs/sizes">Sizes</a></li>
+  <li><a href="https://mayoralven.com/docs/text">Text</a></li>
+  <li><a href="https://mayoralven.com/docs/filters">Filters</a></li>
+  <li><a href="https://mayoralven.com/docs/transform">Transforms</a></li>
+  <li><a href="https://mayoralven.com/docs/opacity">Opacity</a></li>
+  <li><a href="https://mayoralven.com/docs/cursor">Cursors</a></li>
+  <li><a href="https://mayoralven.com/docs/about-hover">Hover</a></li>
+  <li><a href="https://mayoralven.com/docs/text-hover">Hover Text</a></li>
+  <li><a href="https://mayoralven.com/docs/bg-hover">Hover Backgrounds</a></li>
+  <li><a href="https://mayoralven.com/docs/filters-hover">Hover Filters</a></li>
+  <li><a href="https://mayoralven.com/docs/transform-hover">Hover Transforms</a></li>
+  <li><a href="https://mayoralven.com/docs/opacity-hover">Hover Opacity</a></li>
+  <li><a href="https://mayoralven.com/docs/shadow-hover">Hover Shadow</a></li>
 </ul>
 
 <h2>Why Vitamin Bootstrap?</h2>
@@ -41,5 +41,5 @@
 
 <h2>Credit</h2>
 <p>
-  Made with ❤️ by <a href="MY_WEBSITE_URL_HERE">Pablo
+  Made with ❤️ by <a href="https://mayoralven.com/">Pablo Mayoral (MayoralVen)
   <br>  <br>

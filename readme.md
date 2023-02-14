@@ -6,29 +6,29 @@
 </h1>
 <h3 align="center">An extension to the popular CSS framework, Bootstrap</h3>
 <p align="center">
-  <a href="https://mayoralven.com/docs/about-vitamin">View the Docs</a>
+  <a href="https://vitamin.mayoralven.com/docs/about-vitamin">View the Docs</a>
 </p>
 
 <h2>Contents</h2>
 <ul>
-  <li><a href="https://mayoralven.com/docs/about-vitamin">About Vitamin</a></li>
-  <li><a href="https://mayoralven.com/docs/first-steps">First Steps</a></li>
-  <li><a href="https://mayoralven.com/docs/download">Download</a></li>
-  <li><a href="https://mayoralven.com/docs/colors">Colors</a></li>
-  <li><a href="https://mayoralven.com/docs/spacing">Spacing</a></li>
-  <li><a href="https://mayoralven.com/docs/sizes">Sizes</a></li>
-  <li><a href="https://mayoralven.com/docs/text">Text</a></li>
-  <li><a href="https://mayoralven.com/docs/filters">Filters</a></li>
-  <li><a href="https://mayoralven.com/docs/transform">Transforms</a></li>
-  <li><a href="https://mayoralven.com/docs/opacity">Opacity</a></li>
-  <li><a href="https://mayoralven.com/docs/cursor">Cursors</a></li>
-  <li><a href="https://mayoralven.com/docs/about-hover">Hover</a></li>
-  <li><a href="https://mayoralven.com/docs/text-hover">Hover Text</a></li>
-  <li><a href="https://mayoralven.com/docs/bg-hover">Hover Backgrounds</a></li>
-  <li><a href="https://mayoralven.com/docs/filters-hover">Hover Filters</a></li>
-  <li><a href="https://mayoralven.com/docs/transform-hover">Hover Transforms</a></li>
-  <li><a href="https://mayoralven.com/docs/opacity-hover">Hover Opacity</a></li>
-  <li><a href="https://mayoralven.com/docs/shadow-hover">Hover Shadow</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/about-vitamin">About Vitamin</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/first-steps">First Steps</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/download">Download</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/colors">Colors</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/spacing">Spacing</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/sizes">Sizes</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/text">Text</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/filters">Filters</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/transform">Transforms</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/opacity">Opacity</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/cursor">Cursors</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/about-hover">Hover</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/text-hover">Hover Text</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/bg-hover">Hover Backgrounds</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/filters-hover">Hover Filters</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/transform-hover">Hover Transforms</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/opacity-hover">Hover Opacity</a></li>
+  <li><a href="https://vitamin.mayoralven.com/docs/shadow-hover">Hover Shadow</a></li>
 </ul>
 
 <h2>Why Vitamin Bootstrap?</h2>

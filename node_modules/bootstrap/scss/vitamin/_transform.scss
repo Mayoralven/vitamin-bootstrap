@@ -1,0 +1,279 @@
+/*From here - Transforms vitamin Bootstrap by vitamin.mayoralven.com*/
+
+/*transforms*/
+
+// Rotate
+.rotate-360 {
+    transform: rotate(360deg)
+}
+
+.rotate-r-1 {
+    transform: rotate(1deg)
+}
+
+.rotate-r-2 {
+    transform: rotate(2deg)
+}
+
+.rotate-r-3 {
+    transform: rotate(3deg)
+}
+
+.rotate-r-4 {
+    transform: rotate(4deg)
+}
+
+.rotate-r-5 {
+    transform: rotate(5deg)
+}
+
+.rotate-r-90 {
+    transform: rotate(90deg)
+}
+
+.rotate-r-180 {
+    transform: rotate(180deg)
+}
+
+.rotate-r-270 {
+    transform: rotate(270deg)
+}
+
+.rotate-l-1 {
+    transform: rotate(-1deg)
+}
+
+.rotate-l-2 {
+    transform: rotate(-2deg)
+}
+
+.rotate-l-3 {
+    transform: rotate(-3deg)
+}
+
+.rotate-l-4 {
+    transform: rotate(-4deg)
+}
+
+.rotate-l-5 {
+    transform: rotate(-5deg)
+}
+
+.rotate-l-90 {
+    transform: rotate(-90deg)
+}
+
+.rotate-l-180 {
+    transform: rotate(-180deg)
+}
+
+.rotate-l-270 {
+    transform: rotate(-270deg)
+}
+
+// Scale
+
+.scale-1 {
+    transform: scale(1.1);
+}
+
+.scale-2 {
+    transform: scale(1.3);
+}
+
+.scale-3 {
+    transform: scale(1.5);
+}
+
+.scale-4 {
+    transform: scale(2);
+}
+
+.scale-5 {
+    transform: scale(2.5);
+}
+
+.scale-n1 {
+    transform: scale(0.9);
+}
+
+.scale-n2 {
+    transform: scale(0.8);
+}
+
+.scale-n3 {
+    transform: scale(0.7);
+}
+
+.scale-n4 {
+    transform: scale(0.5);
+}
+
+.scale-n5 {
+    transform: scale(0.2);
+}
+
+
+// Translate
+
+.translate-r-1 {
+    transform: translate(10%);
+}
+.translate-r-2 {
+    transform: translate(20%);
+}
+.translate-r-3 {
+    transform: translate(30%);
+}
+.translate-r-4 {
+    transform: translate(40%);
+}
+.translate-r-5 {
+    transform: translate(50%);
+}
+.translate-l-1 {
+    transform: translate(-10%);
+}
+.translate-l-2 {
+    transform: translate(-20%);
+}
+.translate-l-3 {
+    transform: translate(-30%);
+}
+.translate-l-4 {
+    transform: translate(-40%);
+}
+.translate-l-5 {
+    transform: translate(-50%);
+}
+.translate-t-1 {
+    transform: translate(0%, -10%);
+}
+.translate-t-2 {
+    transform: translate(0%, -20%);
+}
+.translate-t-3 {
+    transform: translate(0%, -30%);
+}
+.translate-t-4 {
+    transform: translate(0%, -40%);
+}
+.translate-t-5 {
+    transform: translate(0%, -50%);
+}
+.translate-b-1 {
+    transform: translate(0%, 10%);
+}
+.translate-b-2 {
+    transform: translate(0%, 20%);
+}
+.translate-b-3 {
+    transform: translate(0%, 30%);
+}
+.translate-b-4 {
+    transform: translate(0%, 40%);
+}
+.translate-b-5 {
+    transform: translate(0%, 50%);
+}
+
+// Perspective
+
+// Perspective trigger (add this to parent div)
+
+.perspective {
+    perspective: 500px;
+}
+
+// Perspective effect
+
+.perspective-r-1 {
+    transform: rotateY(3deg);
+}
+.perspective-r-2 {
+    transform: rotateY(4deg);
+}
+.perspective-r-3 {
+    transform: rotateY(5deg);
+}
+.perspective-r-4 {
+    transform: rotateY(7deg);
+}
+.perspective-r-5 {
+    transform: rotateY(10deg);
+}
+.perspective-l-1 {
+    transform: rotateY(-3deg);
+}
+.perspective-l-2 {
+    transform: rotateY(-4deg);
+}
+.perspective-l-3 {
+    transform: rotateY(-5deg);
+}
+.perspective-l-4 {
+    transform: rotateY(-7deg);
+}
+.perspective-l-5 {
+    transform: rotateY(-10deg);
+}
+.perspective-t-1 {
+    transform: rotateX(3deg);
+}
+.perspective-t-2 {
+    transform: rotateX(4deg);
+}
+.perspective-t-3 {
+    transform: rotateX(5deg);
+}
+.perspective-t-4 {
+    transform: rotateX(7deg);
+}
+.perspective-t-5 {
+    transform: rotateX(10deg);
+}
+.perspective-b-1 {
+    transform: rotateX(-3deg);
+}
+.perspective-b-2 {
+    transform: rotateX(-4deg);
+}
+.perspective-b-3 {
+    transform: rotateX(-5deg);
+}
+.perspective-b-4 {
+    transform: rotateX(-7deg);
+}
+.perspective-b-5 {
+    transform: rotateX(-10deg);
+}
+.perspective-xy-1 {
+    transform: rotateY(3deg) rotateX(1deg);
+}
+.perspective-xy-2 {
+    transform: rotateY(4deg) rotateX(2deg);
+}
+.perspective-xy-3 {
+    transform: rotateY(5deg) rotateX(3deg);
+}
+.perspective-xy-4 {
+    transform: rotateY(7deg) rotateX(5deg);
+}
+.perspective-xy-5 {
+    transform: rotateY(10deg) rotateX(7deg);
+}
+.perspective-xy-n1 {
+    transform: rotateY(-3deg) rotateX(1deg);
+}
+.perspective-xy-n2 {
+    transform: rotateY(-4deg) rotateX(2deg);
+}
+.perspective-xy-n3 {
+    transform: rotateY(-5deg) rotateX(3deg);
+}
+.perspective-xy-n4 {
+    transform: rotateY(-7deg) rotateX(5deg);
+}
+.perspective-xy-n5 {
+    transform: rotateY(-10deg) rotateX(7deg);
+}

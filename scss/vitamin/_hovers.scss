@@ -1,0 +1,949 @@
+/*From here - Hovers vitamin Bootstrap by vitamin.mayoralven.com*/
+:root {
+    --transition: .3s ease;
+    --no-transition: .0s;
+
+}
+
+
+/*Hover effects*/
+
+/*hover fonts */
+.text-primary,
+.text-h-primary:hover {
+    color: var(--bs-primary) !important;
+    transition: var(--transition);
+}
+
+.text-secondary,
+.text-h-secondary:hover {
+    color: var(--bs-secondary) !important;
+    transition: var(--transition);
+}
+
+.text-success,
+.text-h-success:hover {
+    color: var(--bs-success) !important;
+    transition: var(--transition);
+}
+
+.text-warning,
+.text-h-warning:hover {
+    color: var(--bs-warning) !important;
+    transition: var(--transition);
+}
+
+.text-danger,
+.text-h-danger:hover {
+    color: var(--bs-danger) !important;
+    transition: var(--transition);
+}
+
+.text-dark,
+.text-h-dark:hover {
+    color: var(--bs-dark) !important;
+    transition: var(--transition);
+}
+
+.text-light,
+.text-h-light:hover {
+    color: var(--bs-light) !important;
+    transition: var(--transition);
+}
+
+.text-info,
+.text-h-info:hover {
+    color: var(--bs-info) !important;
+    transition: var(--transition);
+}
+
+.text-link,
+.text-h-link:hover {
+    color: var(--bs-link) !important;
+    transition: var(--transition);
+}
+.text-indigo,
+.text-h-indigo:hover {
+    color: var(--bs-indigo) !important;
+    transition: var(--transition);
+}
+.text-pink,
+.text-h-pink:hover {
+    color: var(--bs-pink) !important;
+    transition: var(--transition);
+}
+.text-orange,
+.text-h-orange:hover {
+    color: var(--bs-orange) !important;
+    transition: var(--transition);
+}
+.text-teal,
+.text-h-teal:hover {
+    color: var(--bs-teal) !important;
+    transition: var(--transition);
+}
+.text-purple,
+.text-h-purple:hover {
+    color: var(--bs-purple) !important;
+    transition: var(--transition);
+}
+
+.text-teal,
+.text-h-teal:hover {
+    color: var(--bs-teal) !important;
+    transition: var(--transition);
+}
+
+.text-dark,
+.text-h-dark:hover {
+    color: var(--bs-dark) !important;
+    transition: var(--transition);
+}
+
+.text-body,
+.text-h-body:hover {
+    color: rgba(var(--bs-body-color-rgb),var(--bs-text-opacity))!important;
+    transition: var(--transition);
+}
+
+.text-muted,
+.text-h-muted:hover {
+    --bs-text-opacity: 1;
+    color: var(--bs-secondary-color)!important;
+    transition: var(--transition);
+}
+
+.text-white,
+.text-h-white:hover {
+    color: var(--bs-white) !important;
+    transition: var(--transition);
+}
+
+.text-black-50,
+.text-h-black-50:hover {
+    --bs-text-opacity: 1;
+    color: rgba(0,0,0,.5)!important;
+    transition: var(--transition);
+}
+
+.text-white-50,
+.text-h-white-50:hover {
+    --bs-text-opacity: 1;
+    color: rgba(255,255,255,.5)!important;
+    transition: var(--transition);
+}
+
+/*Backgrounds */
+.bg-primary,
+.bg-h-primary:hover {
+    background-color: var(--bs-primary) !important;
+    transition: var(--transition);
+}
+
+.bg-secondary,
+.bg-h-secondary:hover {
+    background-color: var(--bs-secondary) !important;
+    transition: var(--transition);
+}
+
+.bg-success,
+.bg-h-success:hover {
+    background-color: var(--bs-success) !important;
+    transition: var(--transition);
+}
+
+.bg-warning,
+.bg-h-warning:hover {
+    background-color: var(--bs-warning) !important;
+    transition: var(--transition);
+}
+
+.bg-danger,
+.bg-h-danger:hover {
+    background-color: var(--bs-danger) !important;
+    transition: var(--transition);
+}
+
+.bg-dark,
+.bg-h-dark:hover {
+    background-color: var(--bs-dark) !important;
+    transition: var(--transition);
+}
+
+.bg-light,
+.bg-h-light:hover {
+    background-color: var(--bs-light) !important;
+    transition: var(--transition);
+}
+
+.bg-info,
+.bg-h-info:hover {
+    background-color: var(--bs-info) !important;
+    transition: var(--transition);
+}
+
+.bg-link,
+.bg-h-link:hover {
+    background-color: var(--bs-link) !important;
+    transition: var(--transition);
+}
+
+.bg-white,
+.bg-h-white:hover {
+    background-color: var(--bs-white) !important;
+    transition: var(--transition);
+}
+
+.bg-black,
+.bg-h-black:hover {
+    background-color: var(--bs-black) !important;
+    transition: var(--transition);
+}
+.bg-indigo,
+.bg-h-indigo:hover {
+    background-color: var(--bs-indigo) !important;
+    transition: var(--transition);
+}
+.bg-purple,
+.bg-h-purple:hover {
+    background-color: var(--bs-purple) !important;
+    transition: var(--transition);
+}
+.bg-orange,
+.bg-h-orange:hover {
+    background-color: var(--bs-orange) !important;
+    transition: var(--transition);
+}
+.bg-pink,
+.bg-h-pink:hover {
+    background-color: var(--bs-pink) !important;
+    transition: var(--transition);
+}
+.bg-teal,
+.bg-h-teal:hover {
+    background-color: var(--bs-teal) !important;
+    transition: var(--transition);
+}
+
+.bg-body,
+.bg-h-body:hover {
+    background-color: rgba(var(--bs-body-bg-rgb),var(--bs-bg-opacity))!important;
+    transition: var(--transition);
+}
+
+.bg-white,
+.bg-h-white:hover {
+    background-color: rgba(var(--bs-white-rgb),var(--bs-bg-opacity))!important;
+    transition: var(--transition);
+}
+
+.bg-transparent,
+.bg-h-transparent:hover {
+    background-color: transparent!important;
+    transition: var(--transition);
+}
+
+/* rotate hover */
+
+.rotate-h-360:hover {
+    transform: rotate(360deg);
+    transition: var(--transition);
+}
+
+.rotate-h-r-1:hover {
+    transform: rotate(1deg);
+    transition: var(--transition);
+}
+
+.rotate-h-r-2:hover {
+    transform: rotate(2deg);
+    transition: var(--transition);
+}
+
+.rotate-h-r-3:hover {
+    transform: rotate(3deg);
+    transition: var(--transition);
+}
+
+.rotate-h-r-4:hover {
+    transform: rotate(4deg);
+    transition: var(--transition);
+}
+
+.rotate-h-r-5:hover {
+    transform: rotate(5deg);
+    transition: var(--transition);
+}
+
+.rotate-h-r-90:hover {
+    transform: rotate(90deg);
+    transition: var(--transition);
+}
+
+.rotate-h-r-180:hover {
+    transform: rotate(180deg);
+    transition: var(--transition);
+}
+
+.rotate-h-r-270:hover {
+    transform: rotate(270deg);
+    transition: var(--transition);
+}
+
+.rotate-h-l-1:hover {
+    transform: rotate(-1deg);
+    transition: var(--transition);
+}
+
+.rotate-h-l-2:hover {
+    transform: rotate(-2deg);
+    transition: var(--transition);
+}
+
+.rotate-h-l-3:hover {
+    transform: rotate(-3deg);
+    transition: var(--transition);
+}
+
+.rotate-h-l-4:hover {
+    transform: rotate(-4deg);
+    transition: var(--transition);
+}
+
+.rotate-h-l-5:hover {
+    transform: rotate(-5deg);
+    transition: var(--transition);
+}
+
+.rotate-h-l-90:hover {
+    transform: rotate(-90deg);
+    transition: var(--transition);
+}
+
+.rotate-h-l-180:hover {
+    transform: rotate(-180deg);
+    transition: var(--transition);
+}
+
+.rotate-h-l-270:hover {
+    transform: rotate(-270deg);
+    transition: var(--transition);
+}
+
+// Scale hover
+
+.scale-h-1:hover {
+    transform: scale(1.1);
+    transition: var(--transition);
+}
+
+.scale-h-2:hover {
+    transform: scale(1.3);
+    transition: var(--transition);
+}
+
+.scale-h-3:hover {
+    transform: scale(1.5);
+    transition: var(--transition);
+}
+
+.scale-h-4:hover {
+    transform: scale(2);
+    transition: var(--transition);
+}
+
+.scale-h-5:hover {
+    transform: scale(2.5);
+    transition: var(--transition);
+}
+
+.scale-h-n1:hover {
+    transform: scale(0.9);
+    transition: var(--transition);
+}
+
+.scale-h-n2:hover {
+    transform: scale(0.8);
+    transition: var(--transition);
+}
+
+.scale-h-n3:hover {
+    transform: scale(0.7);
+    transition: var(--transition);
+}
+
+.scale-h-n4:hover {
+    transform: scale(0.5);
+    transition: var(--transition);
+}
+
+.scale-h-n5:hover {
+    transform: scale(0.2);
+    transition: var(--transition);
+}
+
+// Translate hover
+
+.translate-h-r-1:hover {
+    transform: translate(10%);
+    transition: var(--transition);
+}
+.translate-h-r-2:hover {
+    transform: translate(20%);
+    transition: var(--transition);
+}
+.translate-h-r-3:hover {
+    transform: translate(30%);
+    transition: var(--transition);
+}
+.translate-h-r-4:hover {
+    transform: translate(40%);
+    transition: var(--transition);
+}
+.translate-h-r-5:hover {
+    transform: translate(50%);
+    transition: var(--transition);
+}
+.translate-h-l-1:hover {
+    transform: translate(-10%);
+    transition: var(--transition);
+}
+.translate-h-l-2:hover {
+    transform: translate(-20%);
+    transition: var(--transition);
+}
+.translate-h-l-3:hover {
+    transform: translate(-30%);
+    transition: var(--transition);
+}
+.translate-h-l-4:hover {
+    transform: translate(-40%);
+    transition: var(--transition);
+}
+.translate-h-l-5:hover {
+    transform: translate(-50%);
+    transition: var(--transition);
+}
+.translate-h-t-1:hover {
+    transform: translate(0%, -10%);
+    transition: var(--transition);
+}
+.translate-h-t-2:hover {
+    transform: translate(0%, -20%);
+    transition: var(--transition);
+}
+.translate-h-t-3:hover {
+    transform: translate(0%, -30%);
+    transition: var(--transition);
+}
+.translate-h-t-4:hover {
+    transform: translate(0%, -40%);
+    transition: var(--transition);
+}
+.translate-h-t-5:hover {
+    transform: translate(0%, -50%);
+    transition: var(--transition);
+}
+.translate-h-b-1:hover {
+    transform: translate(0%, 10%);
+    transition: var(--transition);
+}
+.translate-h-b-2:hover {
+    transform: translate(0%, 20%);
+    transition: var(--transition);
+}
+.translate-h-b-3:hover {
+    transform: translate(0%, 30%);
+    transition: var(--transition);
+}
+.translate-h-b-4:hover {
+    transform: translate(0%, 40%);
+    transition: var(--transition);
+}
+.translate-h-b-5:hover {
+    transform: translate(0%, 50%);
+    transition: var(--transition);
+}
+
+// Perspective hover
+
+.perspective-h-r-1:hover {
+    transform: rotateY(3deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-r-2:hover {
+    transform: rotateY(4deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-r-3:hover {
+    transform: rotateY(5deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-r-4:hover {
+    transform: rotateY(7deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-r-5:hover {
+    transform: rotateY(10deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-l-1:hover {
+    transform: rotateY(-3deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-l-2:hover {
+    transform: rotateY(-4deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-l-3:hover {
+    transform: rotateY(-5deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-l-4:hover {
+    transform: rotateY(-7deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-l-5:hover {
+    transform: rotateY(-10deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-t-1:hover {
+    transform: rotateX(3deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-t-2:hover {
+    transform: rotateX(4deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-t-3:hover {
+    transform: rotateX(5deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-t-4:hover {
+    transform: rotateX(7deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-t-5:hover {
+    transform: rotateX(10deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-b-1:hover {
+    transform: rotateX(-3deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-b-2:hover {
+    transform: rotateX(-4deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-b-3:hover {
+    transform: rotateX(-5deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-b-4:hover {
+    transform: rotateX(-7deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-b-5:hover {
+    transform: rotateX(-10deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-1:hover{
+    transform: rotateY(3deg) rotateX(1deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-2:hover{
+    transform: rotateY(4deg) rotateX(2deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-3:hover{
+    transform: rotateY(5deg) rotateX(3deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-4:hover{
+    transform: rotateY(7deg) rotateX(5deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-5:hover{
+    transform: rotateY(10deg) rotateX(7deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-n1:hover {
+    transform: rotateY(-3deg) rotateX(1deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-n2:hover {
+    transform: rotateY(-4deg) rotateX(2deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-n3:hover {
+    transform: rotateY(-5deg) rotateX(3deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-n4:hover {
+    transform: rotateY(-7deg) rotateX(5deg);
+    transition: var(--transition);transition: var(--transition);
+}
+.perspective-h-xy-n5:hover {
+    transform: rotateY(-10deg) rotateX(7deg);
+    transition: var(--transition);transition: var(--transition);
+}
+
+/* opacity hover */
+
+.opacity-h-100:hover {
+    opacity: .100 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-95:hover {
+    opacity: .95 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-90:hover {
+    opacity: .9 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-85:hover {
+    opacity: .85 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-80:hover {
+    opacity: .8 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-75:hover {
+    opacity: .75 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-70:hover {
+    opacity: .7 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-65:hover {
+    opacity: .65 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-60:hover {
+    opacity: .6 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-55:hover {
+    opacity: .55 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-50:hover {
+    opacity: .5 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-45:hover {
+    opacity: .45 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-40:hover {
+    opacity: .4 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-35:hover {
+    opacity: .35 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-30:hover {
+    opacity: .3 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-25:hover {
+    opacity: .25 !important;
+    transition: var(--transition); 
+}
+
+.opacity-h-20:hover {
+    opacity: .2 !important;
+    transition: var(--transition); 
+}
+
+.opacity-h-15:hover {
+    opacity: .15 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-10:hover {
+    opacity: .1 !important;
+    transition: var(--transition);
+}
+
+.opacity-h-5:hover {
+    opacity: .05 !important;
+    transition: var(--transition);
+}
+
+/* Filters hover*/
+
+/* Blur hover */
+
+.blur-h-1:hover {
+    filter: blur(0.5px);
+    transition: var(--transition);
+}
+
+.blur-h-2:hover {
+    filter: blur(0.7px);
+    transition: var(--transition);
+}
+
+.blur-h-3:hover {
+    filter: blur(1px);
+    transition: var(--transition);
+}
+
+.blur-h-4:hover {
+    filter: blur(1.5px);
+    transition: var(--transition);
+}
+
+.blur-h-5:hover {
+    filter: blur(2px);
+    transition: var(--transition);
+}
+
+/* Contrast hover */
+
+.contrast-h-1:hover {
+    filter: contrast(110%);
+    transition: var(--transition);
+}
+
+.contrast-h-2:hover {
+    filter: contrast(120%);
+    transition: var(--transition);
+}
+
+.contrast-h-3:hover {
+    filter: contrast(130%);
+    transition: var(--transition);
+}
+
+.contrast-h-4:hover {
+    filter: contrast(170%);
+    transition: var(--transition);
+}
+
+.contrast-h-5:hover {
+    filter: contrast(200%);
+    transition: var(--transition);
+}
+
+/* Grayscale hover */
+
+.gray-h-1:hover {
+    filter: grayscale(20%);
+    transition: var(--transition);
+}
+
+.gray-h-2:hover {
+    filter: grayscale(30%);
+    transition: var(--transition);
+}
+
+.gray-h-3:hover {
+    filter: grayscale(40%);
+    transition: var(--transition);
+}
+
+.gray-h-4:hover {
+    filter: grayscale(60%);
+    transition: var(--transition);
+}
+
+.gray-h-5:hover {
+    filter: grayscale(100%);
+    transition: var(--transition);
+}
+
+/* Sepia hover */
+
+.sepia-h-1:hover {
+    filter: sepia(.2);
+    transition: var(--transition);
+}
+
+.sepia-h-2:hover {
+    filter: sepia(.3);
+    transition: var(--transition);
+}
+
+.sepia-h-3:hover {
+    filter: sepia(.4);
+    transition: var(--transition);
+}
+
+.sepia-h-4:hover {
+    filter: sepia(.6);
+    transition: var(--transition);
+}
+
+.sepia-h-5:hover {
+    filter: sepia(1);
+    transition: var(--transition);
+}
+
+// Brightness hover
+
+.bright-h-1:hover {
+    filter: brightness(105%);
+    transition: var(--transition);
+}
+.bright-h-2:hover {
+    filter: brightness(110%);
+    transition: var(--transition);
+}
+.bright-h-3:hover {
+    filter: brightness(120%);
+    transition: var(--transition);
+}
+.bright-h-4:hover {
+    filter: brightness(140%);
+    transition: var(--transition);
+}
+.bright-h-5:hover {
+    filter: brightness(160%);
+    transition: var(--transition);
+}
+.dark-h-1:hover {
+    filter: brightness(95%);
+    transition: var(--transition);
+}
+.dark-h-2:hover {
+    filter: brightness(90%);
+    transition: var(--transition);
+}
+.dark-h-3:hover {
+    filter: brightness(80%);
+    transition: var(--transition);
+}
+.dark-h-4:hover {
+    filter: brightness(70%);
+    transition: var(--transition);
+}
+.dark-h-5:hover {
+    filter: brightness(60%);
+    transition: var(--transition);
+}
+
+.hue-h-1:hover{
+    filter: hue-rotate(40deg);
+    transition: var(--transition);
+}
+.hue-h-2:hover{
+    filter: hue-rotate(80deg);
+    transition: var(--transition);
+}
+.hue-h-3:hover{
+    filter: hue-rotate(120deg);
+    transition: var(--transition);
+}
+.hue-h-4:hover{
+    filter: hue-rotate(180deg);
+    transition: var(--transition);
+}
+.hue-h-5:hover{
+    filter: hue-rotate(260deg);
+    transition: var(--transition);
+}
+.hue-h-n1:hover {
+    filter: hue-rotate(-40deg);
+    transition: var(--transition);
+}
+.hue-h-n2:hover {
+    filter: hue-rotate(-80deg);
+    transition: var(--transition);
+}
+.hue-h-n3:hover {
+    filter: hue-rotate(-120deg);
+    transition: var(--transition);
+}
+.hue-h-n4:hover {
+    filter: hue-rotate(-180deg);
+    transition: var(--transition);
+}
+.hue-h-n5:hover {
+    filter: hue-rotate(-260deg);
+    transition: var(--transition);
+}
+
+.invert-h-1:hover {
+    filter: invert(10%);
+    transition: var(--transition);
+}
+.invert-h-2:hover {
+    filter: invert(20%);
+    transition: var(--transition);
+}
+.invert-h-3:hover {
+    filter: invert(40%);
+    transition: var(--transition);
+}
+.invert-h-4:hover {
+    filter: invert(70%);
+    transition: var(--transition);
+}
+.invert-h-5:hover {
+    filter: invert(100%);
+    transition: var(--transition);
+}
+
+// Saturate hover
+
+.saturate-h-1:hover {
+    filter: saturate(1.5);
+    transition: var(--transition);
+}
+.saturate-h-2:hover {
+    filter: saturate(2);
+    transition: var(--transition);
+}
+.saturate-h-3:hover {
+    filter: saturate(2.5);
+    transition: var(--transition);
+}
+.saturate-h-4:hover {
+    filter: saturate(4);
+    transition: var(--transition);
+}
+.saturate-h-5:hover {
+    filter: saturate(5.5);
+    transition: var(--transition);
+}
+
+
+// Shadow hover 
+.shadow-h:hover {
+    box-shadow: 0 .5rem 1rem rgba(black, .15);
+    transition: var(--transition);
+}
+.shadow-h-sm:hover {
+    box-shadow: 0 .125rem .25rem rgba(black, .075);
+    transition: var(--transition);
+}
+.shadow-h-lg:hover {
+    box-shadow: 0 1rem 3rem rgba(black, .175);
+    transition: var(--transition);
+}
+
+
+.no-transition {
+    transition: var(--no-transition) !important;
+}

@@ -1,0 +1,192 @@
+/*From here - Filters vitamin Bootstrap by vitamin.mayoralven.com*/
+
+/* Filters */
+/* Blur filters */
+
+.blur-1 {
+    filter: blur(0.5px);
+}
+
+.blur-2 {
+    filter: blur(0.7px);
+}
+
+.blur-3 {
+    filter: blur(1px);
+}
+
+.blur-4 {
+    filter: blur(1.5px);
+}
+
+.blur-5 {
+    filter: blur(2px);
+}
+
+/* Contrast filters */
+
+.contrast-1 {
+    filter: contrast(110%);
+}
+
+.contrast-2 {
+    filter: contrast(120%);
+}
+
+.contrast-3 {
+    filter: contrast(130%);
+}
+
+.contrast-4 {
+    filter: contrast(170%);
+}
+
+.contrast-5 {
+    filter: contrast(200%);
+}
+
+/* Grayscale filters */
+
+.gray-1 {
+    filter: grayscale(20%);
+}
+
+.gray-2 {
+    filter: grayscale(30%);
+}
+
+.gray-3 {
+    filter: grayscale(40%);
+}
+
+.gray-4 {
+    filter: grayscale(60%);
+}
+
+.gray-5 {
+    filter: grayscale(100%);
+}
+
+/* Sepia filters */
+
+.sepia-1 {
+    filter: sepia(.2);
+}
+
+.sepia-2 {
+    filter: sepia(.3);
+}
+
+.sepia-3 {
+    filter: sepia(.4);
+}
+
+.sepia-4 {
+    filter: sepia(.6);
+}
+
+.sepia-5 {
+    filter: sepia(1);
+}
+
+// Brightness filter
+
+.bright-1 {
+    filter: brightness(105%);
+}
+.bright-2 {
+    filter: brightness(110%);
+}
+.bright-3 {
+    filter: brightness(120%);
+}
+.bright-4 {
+    filter: brightness(140%);
+}
+.bright-5 {
+    filter: brightness(160%);
+}
+.dark-1 {
+    filter: brightness(95%);
+}
+.dark-2 {
+    filter: brightness(90%);
+}
+.dark-3 {
+    filter: brightness(80%);
+}
+.dark-4 {
+    filter: brightness(70%);
+}
+.dark-5 {
+    filter: brightness(60%);
+}
+
+// Hue rotation
+
+.hue-1 {
+    filter: hue-rotate(40deg);
+}
+.hue-2 {
+    filter: hue-rotate(80deg);
+}
+.hue-3 {
+    filter: hue-rotate(120deg);
+}
+.hue-4 {
+    filter: hue-rotate(180deg);
+}
+.hue-5 {
+    filter: hue-rotate(260deg);
+}
+.hue-n1 {
+    filter: hue-rotate(-40deg);
+}
+.hue-n2 {
+    filter: hue-rotate(-80deg);
+}
+.hue-n3 {
+    filter: hue-rotate(-120deg);
+}
+.hue-n4 {
+    filter: hue-rotate(-180deg);
+}
+.hue-n5 {
+    filter: hue-rotate(-260deg);
+}
+
+// Invert
+
+.invert-1 {
+    filter: invert(10%);
+}
+.invert-2 {
+    filter: invert(20%);
+}
+.invert-3 {
+    filter: invert(40%);
+}
+.invert-4 {
+    filter: invert(70%);
+}
+.invert-5 {
+    filter: invert(100%);
+}
+
+// Saturate
+
+.saturate-1 {
+    filter: saturate(1.5);
+}
+.saturate-2 {
+    filter: saturate(2);
+}
+.saturate-3 {
+    filter: saturate(2.5);
+}
+.saturate-4 {
+    filter: saturate(4);
+}
+.saturate-5 {
+    filter: saturate(5.5);
+}

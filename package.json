@@ -1,15 +1,29 @@
 {
-  "name": "vitamin-b2",
+  "name": "vitamin-bootstrap",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "description": "Unlock limitless possibilities with Vitamin Bootstrap and take advantage of the powerful features of Bootstrap 5. Unlock your creative potential and start building like never before. Start Exploring Now!",
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web",
+    "mayoralven",
+    "vitamin bootstrap",
+    "web design"
+  ],
+  "homepage": "https://getbootstrap.com/",
+  "author": "Mayoralven (https://mayoralven.com)",
+  "Bootstrap Authors": "The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)",
   "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^5.3.0-alpha1"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayoralven/vitamin-bootstrap"
+    
+  },
+  
+  "main": "scss/vitamin.scss",
+  "style": "dist/css/vitamin.css"
 }

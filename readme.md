@@ -42,4 +42,6 @@
 <h2>Credit</h2>
 <p>
   Made with ❤️ by <a href="https://mayoralven.com/">Pablo Mayoral (MayoralVen)
-  <br>  <br>
+<br><br>
+    <img src="https://vitamin.mayoralven.com/img/og-vitamin.jpg">
+<br><br>
